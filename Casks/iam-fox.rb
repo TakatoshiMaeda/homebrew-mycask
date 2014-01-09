@@ -1,4 +1,4 @@
-class IAMFox < Cask
+class IamFox < Cask
   url 'https://s3-ap-northeast-1.amazonaws.com/elasticfox-ec2tag/IAMFox_app-0.1.6.dmg'
   homepage 'http://elasticfox-ec2tag.s3-website-ap-northeast-1.amazonaws.com/'
   version '0.1.6'
